@@ -3,6 +3,7 @@
 A simple and intuitive Streamlit app to log your daily tasks with start and end times, track programming languages and platforms used, and visualize your productivity patterns.  
 Data is stored locally in a SQLite database (`task_log.db`). 🗄️
 
+👉 **Try the live app here:** [https://tasklogger.streamlit.app/](https://tasklogger.streamlit.app/)
 ---
 
 ## ✨ Features
