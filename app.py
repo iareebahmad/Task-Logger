@@ -68,7 +68,7 @@ def fetch_today_logs():
 
 # 🔧 Set up DB table once at startup
 create_table()
-
+st.image("ddtl.png", width=150)
 # 🧠 Streamlit UI
 st.title("🛢️ Dual Database Task Logger")
 
