@@ -70,7 +70,7 @@ def fetch_today_logs():
 create_table()
 
 # 🧠 Streamlit UI
-st.title("🧠 Crush It - Daily Task Logger")
+st.title("🛢️ Dual Database Task Logger")
 
 with st.form("log_form"):
     task_name = st.text_input("Task Name")
