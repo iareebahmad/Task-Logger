@@ -70,7 +70,7 @@ def fetch_today_logs():
 create_table()
 st.image("ddtl.png", width=150)
 # 🧠 Streamlit UI
-st.title("🛢️ Dual Database Task Logger")
+st.title("🛢️ Dual Database Task Logger - Sqlite3 Version")
 
 with st.form("log_form"):
     task_name = st.text_input("Task Name")
